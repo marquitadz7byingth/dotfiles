@@ -16,3 +16,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-15
 - Reviewed codebase, identified areas for improvement
 - Noted known limitation in docs
+
+## 2026-04-22
+- Noted known limitation in docs
+- Reviewed codebase, identified areas for improvement
+- Refactored module structure for clarity
