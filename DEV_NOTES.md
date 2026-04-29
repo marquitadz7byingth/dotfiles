@@ -29,3 +29,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-22
 - Added type hints to helper functions
 - Updated .gitignore to exclude build artifacts
+
+## 2026-04-29
+- Added basic usage examples to README
+- Tidied up project structure
